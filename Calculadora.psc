@@ -8,13 +8,13 @@ Algoritmo Calculadora
     MULTIPLICACION = "*"
     DIVISION = "/"
 	
-    Escribir "INGRESE UN NÚMERO:"
+    Escribir "INGRESE UN NÃšMERO:"
     Leer N1
     
     Escribir "OPCIONES: + , - , * , /"
     Leer OPERACIONES
 	
-    Escribir "INGRESE OTRO NÚMERO:"
+    Escribir "INGRESE OTRO NÃšMERO:"
     Leer N2
 	
 	
@@ -30,17 +30,19 @@ Algoritmo Calculadora
 	
     Si OPERACIONES = MULTIPLICACION Entonces
         TOTALM = N1 * N2
-        Escribir "RESULTADO DE LA MULTIPLICACIÓN ES:", TOTALM
+        Escribir "RESULTADO DE LA MULTIPLICACIÃ“N ES:", TOTALM
     FinSi
 	
     Si OPERACIONES = DIVISION Entonces
         Si N2 <> 0 Entonces
             TOTALD = N1 / N2
-            Escribir "RESULTADO DE LA DIVISIÓN ES:", TOTALD
+            Escribir "RESULTADO DE LA DIVISIÃ“N ES:", TOTALD
         SiNo
-            Escribir "ERROR: DIVISIÓN POR CERO NO PERMITIDA."
+            Escribir "ERROR: DIVISIÃ“N POR CERO NO PERMITIDA."
         FinSi
     FinSi
-	
+
+FinSi
+
 FinAlgoritmo
 
