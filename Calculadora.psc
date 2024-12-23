@@ -41,6 +41,7 @@ Algoritmo Calculadora
             Escribir "ERROR: DIVISIÓN POR CERO NO PERMITIDA."
         FinSi
     FinSi
+suno
 
 FinSi
 
