@@ -1,4 +1,4 @@
-Algoritmo Calculadora
+9Algoritmo Calculadora
     Definir N1, N2 Como Entero
     Definir OPERACIONES Como Caracter
     Definir TOTALS, TOTALR, TOTALM, TOTALD Como Real
@@ -42,7 +42,7 @@ Algoritmo Calculadora
         FinSi
     FinSi
 suno
-
+no sirve para nada esta cosa 
 FinSi
 
 FinAlgoritmo
